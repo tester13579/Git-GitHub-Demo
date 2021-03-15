@@ -1,2 +1,2 @@
 Hello World
-What is this line doing here?
+This text is supposed to be here!
